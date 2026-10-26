@@ -1,0 +1,631 @@
+{
+  "places": [
+    {
+      "id": "seed-nine-mile-station",
+      "name": "9 Mile Station",
+      "city": "Atlanta",
+      "category": "Rooftop bar and kitchen",
+      "image": {
+        "src": "/discovery/places/nine-mile-station.webp",
+        "alt": "Guests gather on the 9 Mile Station rooftop at sunset with the Atlanta skyline behind them.",
+        "focalPoint": "center",
+        "source": "https://9milestation.com/",
+        "credit": "9 Mile Station"
+      },
+      "tags": [
+        "rooftop",
+        "date",
+        "date",
+        "rain"
+      ]
+    },
+    {
+      "id": "seed-garden-room-atlanta",
+      "name": "The Garden Room",
+      "city": "Atlanta",
+      "category": "Garden bar and restaurant",
+      "image": {
+        "src": "/discovery/places/garden-room.jpg",
+        "alt": "A richly patterned banquette and marble table inside The Garden Room.",
+        "focalPoint": "center",
+        "source": "https://thegardenroomatlanta.com/",
+        "credit": "The Garden Room"
+      },
+      "tags": [
+        "date",
+        "rain"
+      ]
+    },
+    {
+      "id": "seed-kimball-house",
+      "name": "Kimball House",
+      "city": "Decatur",
+      "category": "Oyster bar",
+      "image": {
+        "src": "/discovery/places/kimball-house.webp",
+        "alt": "The Kimball House dining room with warm light and historic details.",
+        "focalPoint": "center",
+        "source": "https://www.kimball-house.com/",
+        "credit": "Kimball House"
+      },
+      "tags": [
+        "date",
+        "rain"
+      ]
+    },
+    {
+      "id": "seed-the-optimist-atlanta",
+      "name": "The Optimist",
+      "city": "Atlanta",
+      "category": "Seafood restaurant",
+      "image": {
+        "src": "/discovery/places/the-optimist.webp",
+        "alt": "A composed seafood dish photographed for The Optimist Atlanta.",
+        "focalPoint": "center",
+        "source": "https://www.theoptimistrestaurant.com/atlanta-photos",
+        "credit": "The Optimist"
+      },
+      "tags": [
+        "date",
+        "rain"
+      ]
+    },
+    {
+      "id": "seed-lazy-betty",
+      "name": "Lazy Betty",
+      "city": "Atlanta",
+      "category": "Tasting menu",
+      "image": {
+        "src": "/discovery/places/lazy-betty.jpg",
+        "alt": "A plated course at Lazy Betty with a wine pairing.",
+        "focalPoint": "center",
+        "source": "https://www.lazybettyatl.com/gallery",
+        "credit": "Lazy Betty"
+      },
+      "tags": [
+        "date",
+        "rain"
+      ]
+    },
+    {
+      "id": "seed-staplehouse",
+      "name": "Staplehouse",
+      "city": "Atlanta",
+      "category": "Neighborhood market and patio",
+      "image": {
+        "src": "/discovery/places/staplehouse.webp",
+        "alt": "Staplehouse patio tables glowing in the evening in Old Fourth Ward.",
+        "focalPoint": "center",
+        "source": "https://www.staplehouse.com/",
+        "credit": "Staplehouse"
+      },
+      "tags": [
+        "date",
+        "rain"
+      ]
+    },
+    {
+      "id": "curated-nc-restaurant-pooles-diner-raleigh",
+      "name": "Poole's Diner",
+      "city": "Raleigh",
+      "category": "Restaurant",
+      "image": {
+        "src": "https://assets.simpleviewinc.com/sv-raleigh/image/fetch/c_limit,h_1200,q_75,w_1200/https://assets.simpleviewinc.com/simpleview/image/upload/crm/raleigh/SnapInsta.to_472904097_18480685627058234_3036732433776922718_n_F22C39CC-A1CD-D0C9-20475A87239F5D9E-f22c38d6fd190fe_f22c4725-bbd0-4e20-be6418e56ae57ba1.jpg",
+        "alt": "Poole's Diner",
+        "credit": "Poole's Diner via Visit Raleigh",
+        "source": "https://www.visitraleigh.com/listing/pooles-diner/59558/",
+        "focalPoint": "center"
+      },
+      "tags": [
+        "date",
+        "rain"
+      ]
+    },
+    {
+      "id": "curated-nc-restaurant-angus-barn-raleigh",
+      "name": "The Angus Barn",
+      "city": "Raleigh",
+      "category": "Restaurant",
+      "image": {
+        "src": "https://angusbarn.com/demo/slider/0242.jpg",
+        "alt": "The Angus Barn",
+        "credit": "The Angus Barn",
+        "source": "https://angusbarn.com/",
+        "focalPoint": "center"
+      },
+      "tags": [
+        "date",
+        "rain"
+      ]
+    },
+    {
+      "id": "fl-osm-restaurant-node-10914357648",
+      "name": "The Owl Cafe",
+      "city": "Apalachicola",
+      "category": "Restaurant",
+      "image": {
+        "src": "https://images.squarespace-cdn.com/content/v1/64b6ea17daa8cd34857da95f/7366062f-3cdf-4c51-80fa-3dd9aca6d1cd/OwlArchivePhoto1900.jpg",
+        "alt": "The Owl Cafe",
+        "credit": "Official website",
+        "source": "https://www.owlcafeflorida.com/owl-cafe",
+        "focalPoint": "center"
+      },
+      "tags": [
+        "coffee",
+        "study",
+        "rain",
+        "date",
+        "rain"
+      ]
+    },
+    {
+      "id": "fl-osm-restaurant-node-1059573101",
+      "name": "Apollo's Bistro",
+      "city": "Apollo Beach",
+      "category": "Restaurant",
+      "image": {
+        "src": "https://cdn.spotapps.co/spothopper/image/fetch/f_auto,q_auto:best,c_fit,h_1200/http://static.spotapps.co/spots/6b/af2c73245c41b593ea64e3cbd46cbf/:original",
+        "alt": "Apollo's Bistro",
+        "credit": "Official website",
+        "source": "https://www.apollosbistro.com/",
+        "focalPoint": "center"
+      },
+      "tags": [
+        "date",
+        "rain"
+      ]
+    },
+    {
+      "id": "fl-osm-restaurant-node-6473128969",
+      "name": "A Table Apart Restaurant",
+      "city": "Bonita Springs",
+      "category": "Restaurant",
+      "image": {
+        "src": "https://img1.wsimg.com/isteam/ip/7db3cb2c-813f-41a7-aac8-e095ab7ef0be/DSC_8047.00_00_03_35.Still018%5B1%5D.jpg/:/cr=t:5.56%25,l:0%25,w:100%25,h:88.89%25/rs=w:600,h:300,cg:true",
+        "alt": "A Table Apart Restaurant",
+        "credit": "Official website",
+        "source": "https://atableapart.com/",
+        "focalPoint": "center"
+      },
+      "tags": [
+        "date",
+        "rain"
+      ]
+    },
+    {
+      "id": "fl-osm-restaurant-node-9350455232",
+      "name": "Tiramisu Ristorante Italiano",
+      "city": "Bradenton",
+      "category": "Restaurant",
+      "image": {
+        "src": "https://www.tiramisubradenton.com/wp-content/themes/yootheme/cache/b4/19396641_1882314262029918_1087739918331707223_n-b4a8a43d.jpeg",
+        "alt": "Tiramisu Ristorante Italiano",
+        "credit": "Official website",
+        "source": "https://www.tiramisubradenton.com/gallery/",
+        "focalPoint": "center"
+      },
+      "tags": [
+        "date",
+        "rain"
+      ]
+    },
+    {
+      "id": "fl-osm-restaurant-node-3428391296",
+      "name": "Boat House Tiki Bar and Grill",
+      "city": "Cape Coral",
+      "category": "Restaurant",
+      "image": {
+        "src": "https://static.wixstatic.com/media/b6ec16_4fd613c7f81748fba3e2d2c83e966f0a~mv2.jpg/v1/fit/w_960,h_1326,q_90,enc_avif,quality_auto/b6ec16_4fd613c7f81748fba3e2d2c83e966f0a~mv2.jpg",
+        "alt": "Boat House Tiki Bar and Grill",
+        "credit": "Official website",
+        "source": "https://www.theboathouseusa.com/",
+        "focalPoint": "center"
+      },
+      "tags": [
+        "date",
+        "rain"
+      ]
+    },
+    {
+      "id": "fl-osm-restaurant-node-11805458592",
+      "name": "Avocado Mexican Grill",
+      "city": "Celebration",
+      "category": "Restaurant",
+      "image": {
+        "src": "https://images.squarespace-cdn.com/content/v1/60aa5d3b64aece2ab4ddf083/2df6d765-c8c0-4cc6-914a-add6735b7351/E51305C7-4421-45B3-B8C5-A97F742F1B64.jpeg",
+        "alt": "Avocado Mexican Grill",
+        "credit": "Official website",
+        "source": "https://www.avocadomexicangrill.com/gallery",
+        "focalPoint": "center"
+      },
+      "tags": [
+        "date",
+        "rain"
+      ]
+    },
+    {
+      "id": "fl-osm-restaurant-node-6965320640",
+      "name": "Buca di Beppo",
+      "city": "Celebration",
+      "category": "Restaurant",
+      "image": {
+        "src": "https://dineatbuca.com/wp-content/uploads/2026/05/012226-Buca-PopeRoom-Header-Mobile.jpg",
+        "alt": "Buca di Beppo",
+        "credit": "Official website",
+        "source": "https://dineatbuca.com/pope-room/",
+        "focalPoint": "center"
+      },
+      "tags": [
+        "date",
+        "rain"
+      ]
+    },
+    {
+      "id": "fl-osm-restaurant-node-761842881",
+      "name": "Wine Imperium",
+      "city": "Celebration",
+      "category": "Restaurant",
+      "image": {
+        "src": "https://pewpimfymkpaqtagsqxs.supabase.co/storage/v1/object/public/uploads/businesses/1780125093501-34s6zk.jpg",
+        "alt": "Wine Imperium",
+        "credit": "The Wine Imperium property photo via Celebration Town Center",
+        "source": "https://celebrationtowncenter.com/directory/the-wine-imperium",
+        "focalPoint": "center"
+      },
+      "tags": [
+        "date",
+        "rain"
+      ]
+    },
+    {
+      "id": "fl-osm-restaurant-node-1766549648",
+      "name": "Mirage",
+      "city": "Clearwater",
+      "category": "Restaurant",
+      "image": {
+        "src": "https://miragerestaurant.com/wp-content/uploads/mirage-restaurant-interior-2.jpg",
+        "alt": "Mirage",
+        "credit": "Mirage Restaurant official About Us gallery",
+        "source": "https://miragerestaurant.com/about-us/",
+        "focalPoint": "center"
+      },
+      "tags": [
+        "date",
+        "rain"
+      ]
+    },
+    {
+      "id": "fl-osm-restaurant-node-3588597136",
+      "name": "Florida's Fresh Grill",
+      "city": "Cocoa Beach",
+      "category": "Restaurant",
+      "image": {
+        "src": "https://floridasfreshgrill.com/wp-content/uploads/2016/07/floridas-fresh-grill-comfortable-atmosphere-3.jpg",
+        "alt": "Florida's Fresh Grill",
+        "credit": "Official website",
+        "source": "https://floridasfreshgrill.com/",
+        "focalPoint": "center"
+      },
+      "tags": [
+        "date",
+        "rain"
+      ]
+    },
+    {
+      "id": "fl-osm-restaurant-node-355918858",
+      "name": "Cafe Alfresco",
+      "city": "Dunedin",
+      "category": "Restaurant",
+      "image": {
+        "src": "https://cafealfresco.com/wp-content/uploads/bb-plugin/cache/pomodoro-landscape-2cd56a2af7d8f3a9c65559c3dc46d420-ujlr3neky64c.jpg",
+        "alt": "Cafe Alfresco",
+        "credit": "Official website",
+        "source": "https://cafealfresco.com/",
+        "focalPoint": "center"
+      },
+      "tags": [
+        "coffee",
+        "study",
+        "rain",
+        "date",
+        "rain"
+      ]
+    },
+    {
+      "id": "fl-osm-restaurant-node-11766512246",
+      "name": "Crown & Bull",
+      "city": "Dunedin",
+      "category": "Restaurant",
+      "image": {
+        "src": "https://www.crownandbull.com/wp-content/uploads/2022/10/jai8383-400x284.jpg",
+        "alt": "Crown & Bull",
+        "credit": "Official website",
+        "source": "https://www.crownandbull.com/gallery/",
+        "focalPoint": "center"
+      },
+      "tags": [
+        "date",
+        "rain"
+      ]
+    },
+    {
+      "id": "fl-osm-restaurant-node-7045495685",
+      "name": "Amigo's Tortilla Bar",
+      "city": "Near Key West",
+      "category": "Restaurant",
+      "image": {
+        "src": "https://images.squarespace-cdn.com/content/v1/5a43f2280100276d45c14648/1528226000057-TDFFAUHI0ECDHX4TDM04/0Q9A6090.jpg",
+        "alt": "Amigo's Tortilla Bar",
+        "credit": "Official website",
+        "source": "https://amigostortillabar.com/gallery",
+        "focalPoint": "center"
+      },
+      "tags": [
+        "date",
+        "rain"
+      ]
+    },
+    {
+      "id": "fl-osm-restaurant-node-4289075699",
+      "name": "Bagatelle",
+      "city": "Near Key West",
+      "category": "Restaurant",
+      "image": {
+        "src": "https://images.squarespace-cdn.com/content/v1/63ed22f037d23f7caac246f0/b8a47c1d-c7c9-41b1-a966-7e291e21caad/Bagatelle_0025.jpg",
+        "alt": "Bagatelle",
+        "credit": "Official website",
+        "source": "https://www.bagatellekeywest.com/gallery",
+        "focalPoint": "center"
+      },
+      "tags": [
+        "date",
+        "rain"
+      ]
+    },
+    {
+      "id": "fl-osm-restaurant-node-11916168655",
+      "name": "Banyan House Restaurant",
+      "city": "Near Sarasota",
+      "category": "Restaurant",
+      "image": {
+        "src": "https://banyanhouserestaurant.com/wp-content/uploads/2025/07/481260431_623908213904931_2485951394149266691_n.jpg",
+        "alt": "Banyan House Restaurant",
+        "credit": "Official website",
+        "source": "https://banyanhouserestaurant.com/",
+        "focalPoint": "center"
+      },
+      "tags": [
+        "date",
+        "rain"
+      ]
+    },
+    {
+      "id": "fl-osm-restaurant-node-10822876319",
+      "name": "Bellini Italian Restaurant & Bar",
+      "city": "Near Naples",
+      "category": "Restaurant",
+      "image": {
+        "src": "https://cdn.spotapps.co/spothopper/image/fetch/f_auto,q_auto:best,c_fit,h_1200/http://static.spotapps.co/spots/29/94d3ff145840879737a8bc0719a1c2/:original",
+        "alt": "Bellini Italian Restaurant & Bar",
+        "credit": "Official website",
+        "source": "https://bellininaples.com/",
+        "focalPoint": "center"
+      },
+      "tags": [
+        "date",
+        "rain"
+      ]
+    }
+  ],
+  "collections": [
+    {
+      "id": "seed-atlanta-golden-hour",
+      "title": "Atlanta golden hour",
+      "count": 3,
+      "image": {
+        "src": "/discovery/places/nine-mile-station.webp",
+        "alt": "Guests gather on the 9 Mile Station rooftop at sunset with the Atlanta skyline behind them.",
+        "focalPoint": "center",
+        "source": "https://9milestation.com/",
+        "credit": "9 Mile Station"
+      }
+    },
+    {
+      "id": "seed-atlanta-rooms-worth-dressing-for",
+      "title": "Rooms worth dressing for",
+      "count": 3,
+      "image": {
+        "src": "/discovery/places/garden-room.jpg",
+        "alt": "A richly patterned banquette and marble table inside The Garden Room.",
+        "focalPoint": "center",
+        "source": "https://thegardenroomatlanta.com/",
+        "credit": "The Garden Room"
+      }
+    },
+    {
+      "id": "seed-old-fourth-ward-to-decatur",
+      "title": "Old Fourth Ward to Decatur",
+      "count": 3,
+      "image": {
+        "src": "/discovery/places/staplehouse.webp",
+        "alt": "Staplehouse patio tables glowing in the evening in Old Fourth Ward.",
+        "focalPoint": "center",
+        "source": "https://www.staplehouse.com/",
+        "credit": "Staplehouse"
+      }
+    },
+    {
+      "id": "ga-collection-restaurant-statewide",
+      "title": "Georgia dining map",
+      "count": 12,
+      "image": {
+        "src": "https://img1.wsimg.com/isteam/ip/13b3957c-1e35-4a88-86d0-80fb0a2551d4/IMG_9975.jpeg",
+        "alt": "Center Street Tavern",
+        "credit": "Official website",
+        "source": "https://centerstreettavern.com/",
+        "focalPoint": "center"
+      }
+    },
+    {
+      "id": "ga-collection-cafe-statewide",
+      "title": "Georgia cafe mornings",
+      "count": 12,
+      "image": {
+        "src": "https://chattahoocheecoffee.com/wp-content/uploads/2018/09/Westside-patio.jpg",
+        "alt": "Chattahoochee Coffee Company",
+        "credit": "Official website",
+        "source": "https://chattahoocheecoffee.com/",
+        "focalPoint": "center"
+      }
+    },
+    {
+      "id": "ga-collection-hotel-statewide",
+      "title": "Georgia hotel stays",
+      "count": 12,
+      "image": {
+        "src": "https://www.wyndhamhotels.com/content/dam/property-images/en-us/di/us/ga/acworth/04974/04974_exterior_day_3.jpg",
+        "alt": "Days Inn",
+        "credit": "Official website",
+        "source": "https://www.wyndhamhotels.com/days-inn/acworth-georgia/days-inn-acworth/overview",
+        "focalPoint": "center"
+      }
+    }
+  ],
+  "credits": [
+    {
+      "name": "9 Mile Station",
+      "credit": "9 Mile Station",
+      "source": "https://9milestation.com/"
+    },
+    {
+      "name": "The Garden Room",
+      "credit": "The Garden Room",
+      "source": "https://thegardenroomatlanta.com/"
+    },
+    {
+      "name": "Kimball House",
+      "credit": "Kimball House",
+      "source": "https://www.kimball-house.com/"
+    },
+    {
+      "name": "The Optimist",
+      "credit": "The Optimist",
+      "source": "https://www.theoptimistrestaurant.com/atlanta-photos"
+    },
+    {
+      "name": "Lazy Betty",
+      "credit": "Lazy Betty",
+      "source": "https://www.lazybettyatl.com/gallery"
+    },
+    {
+      "name": "Staplehouse",
+      "credit": "Staplehouse",
+      "source": "https://www.staplehouse.com/"
+    },
+    {
+      "name": "Poole's Diner",
+      "credit": "Poole's Diner via Visit Raleigh",
+      "source": "https://www.visitraleigh.com/listing/pooles-diner/59558/"
+    },
+    {
+      "name": "The Angus Barn",
+      "credit": "The Angus Barn",
+      "source": "https://angusbarn.com/"
+    },
+    {
+      "name": "The Owl Cafe",
+      "credit": "Official website",
+      "source": "https://www.owlcafeflorida.com/owl-cafe"
+    },
+    {
+      "name": "Apollo's Bistro",
+      "credit": "Official website",
+      "source": "https://www.apollosbistro.com/"
+    },
+    {
+      "name": "A Table Apart Restaurant",
+      "credit": "Official website",
+      "source": "https://atableapart.com/"
+    },
+    {
+      "name": "Tiramisu Ristorante Italiano",
+      "credit": "Official website",
+      "source": "https://www.tiramisubradenton.com/gallery/"
+    },
+    {
+      "name": "Boat House Tiki Bar and Grill",
+      "credit": "Official website",
+      "source": "https://www.theboathouseusa.com/"
+    },
+    {
+      "name": "Avocado Mexican Grill",
+      "credit": "Official website",
+      "source": "https://www.avocadomexicangrill.com/gallery"
+    },
+    {
+      "name": "Buca di Beppo",
+      "credit": "Official website",
+      "source": "https://dineatbuca.com/pope-room/"
+    },
+    {
+      "name": "Wine Imperium",
+      "credit": "The Wine Imperium property photo via Celebration Town Center",
+      "source": "https://celebrationtowncenter.com/directory/the-wine-imperium"
+    },
+    {
+      "name": "Mirage",
+      "credit": "Mirage Restaurant official About Us gallery",
+      "source": "https://miragerestaurant.com/about-us/"
+    },
+    {
+      "name": "Florida's Fresh Grill",
+      "credit": "Official website",
+      "source": "https://floridasfreshgrill.com/"
+    },
+    {
+      "name": "Cafe Alfresco",
+      "credit": "Official website",
+      "source": "https://cafealfresco.com/"
+    },
+    {
+      "name": "Crown & Bull",
+      "credit": "Official website",
+      "source": "https://www.crownandbull.com/gallery/"
+    },
+    {
+      "name": "Amigo's Tortilla Bar",
+      "credit": "Official website",
+      "source": "https://amigostortillabar.com/gallery"
+    },
+    {
+      "name": "Bagatelle",
+      "credit": "Official website",
+      "source": "https://www.bagatellekeywest.com/gallery"
+    },
+    {
+      "name": "Banyan House Restaurant",
+      "credit": "Official website",
+      "source": "https://banyanhouserestaurant.com/"
+    },
+    {
+      "name": "Bellini Italian Restaurant & Bar",
+      "credit": "Official website",
+      "source": "https://bellininaples.com/"
+    },
+    {
+      "name": "Center Street Tavern",
+      "credit": "Official website",
+      "source": "https://centerstreettavern.com/"
+    },
+    {
+      "name": "Chattahoochee Coffee Company",
+      "credit": "Official website",
+      "source": "https://chattahoocheecoffee.com/"
+    },
+    {
+      "name": "Days Inn",
+      "credit": "Official website",
+      "source": "https://www.wyndhamhotels.com/days-inn/acworth-georgia/days-inn-acworth/overview"
+    }
+  ]
+}
