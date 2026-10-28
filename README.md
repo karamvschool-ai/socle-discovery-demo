@@ -2,21 +2,27 @@
 
 ![socle discovery homepage](docs/discovery-desktop.png)
 
-this is a small, standalone preview of socle discovery. it gives you a feel for how people can find places, save ideas for later, and explore spots that fit what they like.
+socle is a project i'm building around discovering places and understanding what people enjoy about them. i have two sides to socle: the discovery side helps people find cafés, restaurants, hotels, and other hospitality places. the business side helps owners understand feedback from their customers.
 
-you can try the homepage, browse sample places and collections, and use the search and mood filters. everything here runs on sample data in the page. it does not connect to a socle account or to anyone's real information.
+the full project has features including saving places, creating custom lists, social features like messaging, and being able to send locations you love like reels. there are also taste profiles that develop from your activity. right now, saving places, adding them to lists, and verified visits update your taste profile. sending places and reacting to messages are social features, but they don't affect taste yet. i wanted those features to connect, so finding a place, saving it for later, and sharing it with someone feel like parts of the same experience.
 
-[visit socle](https://socle.pages.dev/)
+## one thing i've been working on
 
-## a little about socle
+one challenge i struggled with has been making everything work comfortably on a phone using xcode. during testing, navigation could get stuck (AND I STILL DONT KNOW WHY!!!) and the separate feature introductions i added SO LONG AGO kept interrupting the experience. i replaced those introductions with one onboarding flow at the beginning, instead of like 5 independent ones, and tested the layouts and touch controls.
 
-socle connects the places people discover with the teams who make those experiences happen.
+## try the demo
 
-- **discovery** helps people find places, make lists, share recommendations, and build a picture of their taste over time.
-- **business** gives hospitality teams ways to understand guest feedback, notice patterns, and recognize the people behind a good experience.
-- **snap** is a physical touchpoint in development that can bring a guest from a place they visit into a digital feedback experience.
+the public demo, the one in this repo, shows the discovery homepage. you can explore its layout, place cards, and collections without creating an account, on your own localhost. it's a limited preview, however, so account features and individual place pages aren't included. everything here runs on sample data and doesn't connect to anyone's real information.
 
-this repo only shows a preview of the discovery homepage. the other parts are not included here.
+i'd especially appreciate feedback on whether the page makes sense to someone seeing socle for the first time.
+
+## try the full platform
+
+also, if you haven't already, check out the REAL socle discovery and business platform at [socle.pages.dev](https://socle.pages.dev/).
+
+if you're from stardance, open the sign-in/create-account page and click **testers** in the bottom left. when it asks where you're from, enter **stardance**. this creates a temporary testing account with free access for 24 hours. the account includes a **stardance testers** workplace so you can explore the business side too. this is separate from the standalone demo in this repo.
+
+have fun!!
 
 ## why this is a demo
 
