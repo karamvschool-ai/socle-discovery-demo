@@ -1,34 +1,39 @@
-# socle discovery demo
+# socle
 
-![socle discovery homepage](docs/discovery-desktop.png)
+socle is a project i'm building for people who enjoy finding places, and the businesses behind those places.
 
-socle is a project i'm building around discovering places and understanding what people enjoy about them. i have two sides to socle: the discovery side helps people find cafés, restaurants, hotels, and other hospitality places. the business side helps owners understand feedback from their customers.
+Socle discovery is where you can find cafés, restaurants, hotels and other hospitality spots, save them into lists, and share them with friends. the business side helps owners understand customer feedback and what people enjoy or want improved through a hardware system im developing called the Snap.
 
-the full project has features including saving places, creating custom lists, social features like messaging, and being able to send locations you love like reels. there are also taste profiles that develop from your activity. right now, saving places, adding them to lists, and verified visits update your taste profile. sending places and reacting to messages are social features, but they don't affect taste yet. i wanted those features to connect, so finding a place, saving it for later, and sharing it with someone feel like parts of the same experience.
+i wanted these things to connect. finding somewhere, going there, saving it and talking about it shouldn’t feel like completely separate experiences.
 
-## one thing i've been working on
+## PLEASE READ before testing!!
 
-one challenge i struggled with has been making everything work comfortably on a phone using xcode. during testing, navigation could get stuck (AND I STILL DONT KNOW WHY!!!) and the separate feature introductions i added SO LONG AGO kept interrupting the experience. i replaced those introductions with one onboarding flow at the beginning, instead of like 5 independent ones, and tested the layouts and touch controls.
+the full project is HEREEEEEEEEEEEEEE:
 
-## try the demo
+[**https://socle.pages.dev**](https://socle.pages.dev)
 
-the public demo, the one in this repo, shows the discovery homepage. you can explore its layout, place cards, and collections without creating an account, on your own localhost. it's a limited preview, however, so account features and individual place pages aren't included. everything here runs on sample data and doesn't connect to anyone's real information.
+this repo ONLY contains a DEMO of the discovery homepage. running it locally opens that limited preview, so you won’t see the full account system, individual place pages, messaging or business dashboard here.
 
-i'd especially appreciate feedback on whether the page makes sense to someone seeing socle for the first time.
+## so uhh.... what’s in the full version?
 
-## try the full platform
+- discovery, saved places and custom lists
+- social posts, messaging and sharing places with friends
+- taste profiles that develop from your activity
+- business tools for reviewing customer feedback
 
-also, if you haven't already, check out the REAL socle discovery and business platform at [socle.pages.dev](https://socle.pages.dev/).
+## what’s been difficult?
 
-if you're from stardance, open the sign-in/create-account page and click **testers** in the bottom left. when it asks where you're from, enter **stardance**. this creates a temporary testing account with free access for 24 hours. the account includes a **stardance testers** workplace so you can explore the business side too. this is separate from the standalone demo in this repo.
+getting the phone experience right has taken a LOT of testing :'( navigation sometimes got stuck, buttons could respond slowly, and the old feature introductions kept interrupting people.
 
-have fun!!
+i replaced those separate introductions with one onboarding flow at the beginning. there are still things to improve, so specific feedback about where something breaks is useful.
 
-## why this is a demo
+## why isn’t everything public?
 
-the full socle app lives in a private repo. it includes unfinished product work, account and business features, internal services, and integrations that should not be exposed in a small public preview. keeping this demo separate makes it easier to try and understand, while keeping the wider product and its development history private.
+i’m keeping the full source private because it contains systems and implementation details i don’t want to release publicly. this repo lets people explore part of socle without publishing the entire platform.
 
-## run it on your computer
+try it out and tell me what feels confusing, what breaks, and what you’d actually use!!
+
+## run the demo on your computer
 
 you'll need node.js 22 or newer. from this folder, run:
 
@@ -46,17 +51,11 @@ npm run build
 npm start
 ```
 
-## what's in the demo
+## a look at the demo
 
-- a responsive discovery homepage
-- sample place and collection shelves
-- search and mood filters that work with the sample content
-- keyboard search shortcut, local-time greeting, and reduced-motion support
-- touch scrolling and previous/next controls for the shelves
+![socle discovery homepage demo](docs/discovery-desktop.png)
 
-## what's not in the demo
-
-there's no sign-in, account, navigation menu, place detail page, database, api, location tracking, taste scoring, analytics, or business dashboard. the cards are previews, and the sample places and collections are included just to make the page useful to explore.
+the demo runs on sample data and doesn't connect to anyone's real account information. it includes place and collection shelves, search and mood filters, keyboard controls, touch scrolling, and reduced-motion support.
 
 ## photos and brand
 
